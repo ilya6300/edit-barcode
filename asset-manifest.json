@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edit-barcode/static/css/main.e13bdaa6.css",
+    "main.js": "/edit-barcode/static/js/main.79d3a6d3.js",
+    "static/js/787.5f8b2abe.chunk.js": "/edit-barcode/static/js/787.5f8b2abe.chunk.js",
+    "index.html": "/edit-barcode/index.html",
+    "main.e13bdaa6.css.map": "/edit-barcode/static/css/main.e13bdaa6.css.map",
+    "main.79d3a6d3.js.map": "/edit-barcode/static/js/main.79d3a6d3.js.map",
+    "787.5f8b2abe.chunk.js.map": "/edit-barcode/static/js/787.5f8b2abe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13bdaa6.css",
+    "static/js/main.79d3a6d3.js"
+  ]
+}
