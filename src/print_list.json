@@ -1,0 +1,18 @@
+{
+  "printers": [
+    {
+      "manufacturer": "TSC",
+      "language": "TSPL",
+      "model": "TSC MA240",
+      "factor": "4",
+      "dpi": "200"
+    },
+    {
+      "manufacturer": "Godex",
+      "language": "EZPL",
+      "model": "Godex",
+      "factor": "5",
+      "dpi": "300"
+    }
+  ]
+}
